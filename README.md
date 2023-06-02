@@ -2,7 +2,7 @@
 Some useful ChatGPT prompts which can used to improve academic creatiivty
 
 ## Install
-1. Download and install [Chatgpt desktop](https://github.com/lencx/ChatGPT)
+1. Download and install [ChatGPT desktop](https://github.com/lencx/ChatGPT)
 2. Open Chatgpt desktop, open control center, put the [json link](https://raw.githubusercontent.com/xuestrange/AcademicPrompt/main/prompt.json) to the input of the `Prompts > Sync Custom`
 3. refresh
 ## Usage
