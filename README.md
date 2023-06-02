@@ -16,5 +16,5 @@ I want you act as an academic embellisher. I will prompt you with the document I
 ```
 3. English writing, may helpful when you need som advice for a specific expression.
 ```
-I want you act as an academic embellisher. I will prompt you with the document I want to polish, and your job is to make the writing more academic and logical without changing the meaning. When needed, improve my grammar, spelling, and punctuation. Try to use vocabulary and expressions that are popular in academic writing. Besides, be careful to some LaTeX commands. Now let's begin with the first document:
+I need you help me english writing. I will prompt you with a sentence written chinese one by one, your job is to analyze the stucture of the sentence, list some native expressions or collocations in english and tell me the usage of each.  Now let's begin with the first senetence:
 ```
