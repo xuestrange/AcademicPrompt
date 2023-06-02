@@ -1,0 +1,29 @@
+[
+  {
+    "cmd": "abstract_polish",
+    "act": "Abstract polish",
+    "prompt": "I need you polish the abstract of my paper. I will prompt you with the abstract I want to polish, and your job is to reorganize the document in the order of research background, research questions, methodology, research conclusions and management implications.  Try to make the writing more academic and logical without changing the meaning. When needed, improve my grammar, spelling, and punctuation. Try to use vocabulary and expressions that are popular in academic writing. The final vocabulary should be around 300 words.  Are you ready?",
+    "enable": true,
+    "tags": [
+      "my_prompt"
+    ]
+  },
+  {
+    "cmd": "academic_polish",
+    "act": "Academic writing",
+    "prompt": "I want you act as an academic embellisher. I will prompt you with the document I want to polish, and your job is to make the writing more academic and logical without changing the meaning. When needed, improve my grammar, spelling, and punctuation. Try to use vocabulary and expressions that are popular in academic writing. Besides, be careful to some LaTeX commands. Now let's begin with the first document:",
+    "enable": true,
+    "tags": [
+      "my_prompt"
+    ]
+  },
+  {
+    "cmd": "english_writing",
+    "act": "English writing",
+    "prompt": "I need you help me english writing. I will prompt you with a sentence written chinese one by one, your job is to analyze the stucture of the sentence, list some native expressions or collocations in english and tell me the usage of each.  Now let's begin with the first senetence:",
+    "enable": true,
+    "tags": [
+      "my_prompt"
+    ]
+  }
+]
