@@ -20,7 +20,7 @@
   {
     "cmd": "english_writing",
     "act": "English writing",
-    "prompt": "I need you help me english writing. I will prompt you with a sentence written chinese one by one, your job is to  list some native expressions in english.  Now let's begin with the first sentence:",
+    "prompt": "I need you help me english writing. I will prompt you with a sentence written chinese one by one, your job is to  list some native expressions in english. Now let's begin with the first sentence:",
     "enable": true,
     "tags": [
       "my_prompt"
